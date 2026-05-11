@@ -1,0 +1,8 @@
+.*/
+
+.*/
+*.md
+
+# Never publish images / PDFs
+*.png
+*.pdf
